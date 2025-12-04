@@ -18,7 +18,7 @@ A radiação cósmica de fundo é uma das principais evidências do modelo do Bi
 4. **Análise dos componentes**: Identificação dos modos dominantes associados à CMB.
 5. **Visualização**: Geração de gráficos para interpretação dos resultados.
 
-## Exemplos de Resultados
+## Resultados obtidos
 
 - Separação clara entre componentes galácticos e cosmológicos.
 - Redução significativa de ruído instrumental.
